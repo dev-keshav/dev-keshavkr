@@ -80,7 +80,7 @@ const dataportfolio = [{
     },
     {
         img: "https://cdn.dribbble.com/users/77531/screenshots/16645267/media/78cd3639944059ae0344ccd70ba71c30.png",
-        desctiption: "Restfull API which has the data for different exercises.",
+        desctiption: "Restfull API based oon health and fitness",
         link: "https://github.com/dev-keshav/workoutApi",
     },
     {
@@ -94,9 +94,9 @@ const dataportfolio = [{
         link: "https://electride.in/",
     },
     {
-        img: "https://groobe-landing.netlify.app/images/bride-7638298%202.jpg",
-        desctiption: "Landing page",
-        link: "https://groobe-landing.netlify.app/",
+        img: "https://i.pinimg.com/originals/a2/f8/5c/a2f85c980dfba315af02a3a9d54d4841.gif",
+        desctiption: "Sorting Visualizer",
+        link: "https://github.com/dev-keshav/sorting.visualizer",
     },
 
     {
